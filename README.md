@@ -1,1 +1,1 @@
-### Filing bug reports against MyScoutee
+### Repository for bug reports against MyScoutee

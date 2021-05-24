@@ -1,1 +1,1 @@
-### Repository for bug reports against MyScoutee
+### Repository for bug reports and feature request in relation with MyScoutee
